@@ -35,7 +35,7 @@
     "escape-string-regexp": "^4.0.0",
     "execa": "^5.0.0",
     "follow-redirects": "^1.13.3",
-    "globby": "^11.0.3",
+    "globby": "^12.0.0",
     "listr": "^0.14.3",
     "rxjs": "^6.6.7",
     "tempy": "^1.0.1",
