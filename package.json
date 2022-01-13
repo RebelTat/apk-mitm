@@ -34,7 +34,7 @@
     "env-paths": "^2.2.1",
     "escape-string-regexp": "^4.0.0",
     "execa": "^5.0.0",
-    "follow-redirects": "^1.13.3",
+    "follow-redirects": "^1.14.7",
     "globby": "^11.0.3",
     "listr": "^0.14.3",
     "rxjs": "^6.6.7",
